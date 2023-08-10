@@ -10,7 +10,7 @@ This is a product review API built in C# and MongoDB. The API allows you to perf
 ## Installation
 
 1. Clone the repository
-2. Install the required packages using NuGet package manager
+2. Install the required packages
 3. Update the `appsettings.json` file with your MongoDB connection string and database name.
 
 ## Usage
